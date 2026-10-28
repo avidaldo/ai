@@ -5,6 +5,8 @@ Materials for two modules of the specialisation course in Artificial Intelligenc
 - **SAA · Machine Learning Systems**: how models learn from data, how they are trained, and how to tell whether they really work.
 - **PIA · AI Programming**: building software with AI: Python and its tooling, language models, retrieval, agents, deployment and automation.
 
+## [Spanish translation of this repository](https://github.com/NainIglesias/ai/tree/traduccion-es) (maintained by [NainIglesias](https://github.com/NainIglesias))
+
 ## Start here
 
 1. **[Working plan](course/working-plan.md)**: how to work through the year, the three tiers of each topic, the projects you fork and build on, and how to practise.
@@ -43,3 +45,4 @@ Each topic's README gives its path, with the core items marked ★. The worked e
 | 15 | Reinforcement learning | SAA | [Learning from rewards](saa/reinforcement-learning/README.md): agents, environments and Q-learning | Worked example: [tic-tac-toe with Q-learning](https://github.com/avidaldo/tictactoe-qlearning), from the simplest version to an agent that never loses |
 
 The February exam covers term 1, and the May exam the whole year: see [how you are assessed](course/assessment.md).
+
