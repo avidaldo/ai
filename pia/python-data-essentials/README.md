@@ -1,6 +1,6 @@
 # Python Data Essentials: NumPy and pandas
 
-The two libraries that almost every AI project in Python stands on: NumPy for numerical arrays and pandas for tables. This folder covers what you need to load, inspect, select, reshape and combine the data of your projects, to find the problems a table has, and to get data from the web. Deeper data preparation for machine learning (exploring a dataset, missing values, outliers, encoding, scaling) is the deep dive *Data preparation* *(coming)*, one notebook per step: it starts where *Finding the problems in a table* stops, with the decisions that depend on the data.
+The two libraries that almost every AI project in Python stands on: NumPy for numerical arrays and pandas for tables. This folder covers what you need to load, inspect, select, reshape and combine the data of your projects, to find the problems a table has, and to get data from the web. Deeper data preparation for machine learning is the topic [Data preparation](../../saa/data-preparation/README.md), one notebook per step: it starts where *Finding the problems in a table* stops, with the decisions that depend on the data. Its path (missing values, encoding, scaling) comes with supervised learning; its deep dives (exploring a dataset, outliers, skewed distributions…) can be read now.
 
 ## Path
 
