@@ -24,7 +24,7 @@ frame the problem → get and explore the data → prepare the data → train an
 ### Prepare the Data
 
 - **Set the test set aside first,** before deciding anything from the data (see [generalisation](#generalisation-the-central-problem) below).
-- Clean the data, encode categories as numbers, scale, and create the features that help the model (*feature engineering*), deciding each step on the training data only. The data-preparation deep dive *(coming)* goes through each of them.
+- Clean the data, encode categories as numbers, scale, and create the features that help the model (*feature engineering*), deciding each step on the training data only. [Data preparation](../../data-preparation/README.md) goes through each of them.
 
 ### Train and Tune
 
@@ -60,4 +60,4 @@ That is why the data is split into three sets:
 
 **Data leakage** is the same mistake in disguise: information the model won't have when it predicts gets into its training. Two examples: scaling the data with the mean of all of it, test set included; or predicting whether a loan will be repaid with a feature that is only known afterwards, such as the date it was written off. A score that looks too good to be true usually is.
 
-How to measure all this, and how to avoid these mistakes, is the core of supervised learning *(coming)*.
+How to measure all this, and how to avoid these mistakes, is the core of [supervised learning](../../supervised-learning/README.md).

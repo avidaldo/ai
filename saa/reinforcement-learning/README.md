@@ -12,8 +12,6 @@ Learning from rewards instead of labels: an agent acts in an environment, receiv
 | 2 | [The Bellman equation](bellman_equation.ipynb) | Where Q-learning's update rule comes from, computed by hand step by step and then in code |
 | 3 | [Q-learning on FrozenLake](frozen_lake.ipynb) | Training and evaluating a Q-learning agent in a [Gymnasium](https://gymnasium.farama.org/) environment |
 
-The same idea, learning from a reward, is one step in turning a language model into a chat assistant (RLHF): see *How a Language Model Is Made* in the stage-2 note [Language models from the outside](../concepts/background/language_models.md#how-a-language-model-is-made).
-
 ## Worked example
 
 [Tic-tac-toe with Q-learning](https://github.com/avidaldo/tictactoe-qlearning) is a repository of its own: it improves an agent step by step, from the simplest version to one that never loses against a perfect player. Its README suggests further experiments, and its notebooks have exercises: board symmetries, a curriculum, a tournament.

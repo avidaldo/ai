@@ -1,6 +1,6 @@
 # What AI and Machine Learning Are
 
-The map of the whole SAA year, in notes to read: what AI and machine learning are, and each family of models seen from the outside. Each later stage goes inside one part of the map: the column *Detailed in* says which, and the [roadmap](../../README.md#roadmap) gives the stages.
+The map of the whole SAA year, in notes to read: what AI and machine learning are, and each family of models seen from the outside. Each later stage goes inside one part of the map.
 
 ## Path
 

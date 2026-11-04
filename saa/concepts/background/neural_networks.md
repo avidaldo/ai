@@ -57,7 +57,7 @@ A **multilayer network** stacks units in layers: an input layer that receives th
 
 Training starts from random weights. The network predicts for a small batch of training examples, a **loss function** measures how far the predictions are from the targets, and every weight is moved a small step in the direction that reduces the loss: that is **gradient descent**. **Backpropagation** is the algorithm that computes that direction for every weight at once, working back from the output layer to the input. Repeated over many batches, and many passes over the data, these small steps fit the network to its examples.
 
-Gradient descent is explained step by step in supervised learning *(coming)*, because simpler models are trained with it too, and backpropagation in the topic on neural networks *(coming)*.
+Gradient descent is explained step by step in [supervised learning](../../supervised-learning/ml-fundamentals/gradient_descent.ipynb), because simpler models are trained with it too, and backpropagation in the topic on neural networks *(coming)*.
 
 ## Deep Learning
 

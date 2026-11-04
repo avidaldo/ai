@@ -1,6 +1,6 @@
 # Python Data Essentials: NumPy and pandas
 
-The two libraries that almost every AI project in Python stands on: NumPy for numerical arrays and pandas for tables. This folder covers what you need to load, inspect, select, reshape and combine the data of your projects, to find the problems a table has, and to get data from the web. Deeper data preparation for machine learning is the topic [Data preparation](../../saa/data-preparation/README.md), one notebook per step: it starts where *Finding the problems in a table* stops, with the decisions that depend on the data. Its path (missing values, encoding, scaling) comes with supervised learning; its deep dives (exploring a dataset, outliers, skewed distributions…) can be read now.
+The two libraries that almost every AI project in Python stands on: NumPy for numerical arrays and pandas for tables. This folder covers what you need to load, inspect, select, reshape and combine the data of your projects, to find the problems a table has, and to get data from the web.
 
 ## Path
 
@@ -19,7 +19,7 @@ The two libraries that almost every AI project in Python stands on: NumPy for nu
 
 ## Exercises
 
-[Images are arrays: MNIST with NumPy](https://github.com/avidaldo/numpy-mnist) is a repository of its own: two dozen exercises on handwritten digits as a 60,000×28×28 array (reshaping, data types and overflow, one-hot encoding, normalisation without leakage, loops against vectorisation, data augmentation by hand), with tests that check your answers, continuous integration in your fork, and a solution. If a 7×7 image as a matrix is new to you, start with the notebook [Matrices and tensors in AI](https://github.com/avidaldo/compare-python-c-efficiency/blob/main/02_matrices_in_ai.ipynb) of the repository compare-python-c-efficiency.
+[numpy-mnist](https://github.com/avidaldo/numpy-mnist), the repository you forked in stage 1: two dozen exercises on handwritten digits as a 60,000×28×28 array, with tests that check your answers. If a 7×7 image as a matrix is new to you, start with [Matrices and tensors in AI](https://github.com/avidaldo/compare-python-c-efficiency/blob/main/02_matrices_in_ai.ipynb).
 
 ## Deep dives
 
@@ -29,6 +29,7 @@ Optional and never assessed. The path never depends on these.
 | --- | --- | --- |
 | [Lists vs NumPy arrays: exercises](numpy/deep-dives/lists_nd_arrays_examples.ipynb) | 1 | Small functions solved with plain lists and with NumPy |
 | [A DataFrame from different structures](pandas/deep-dives/df_from_structures.ipynb) | 3 | Building one DataFrame from lists, dictionaries and arrays |
+| [Data preparation's deep dives](../../saa/data-preparation/README.md#deep-dives) | 6 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
 
 ## References
 

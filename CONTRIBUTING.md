@@ -12,7 +12,7 @@ The materials of both modules live in public repositories, and you can help make
 
 ## Where
 
-Any repository linked from this one: **the project repositories**, where issues will be proposed for the next step and pull requests are welcome; the notes and worked examples of each stage; and the roadmap itself. Contributions to SAA and PIA materials are equally welcome, and count for the module whose material they improve.
+This repository and any repository it links, the projects included. A contribution counts for the module whose material it improves.
 
 ## Issues: report a problem or ask for an improvement
 
@@ -49,7 +49,15 @@ Now and then the teacher opens an issue labelled `practice`: an improvement that
 - One person per issue. If it is taken, choose another one, or review the pull request that solves it: a careful review is a contribution too.
 - If you stop working on an issue, say so in a comment, so that someone else can take it.
 
-Feedback on your own practice work, which is not meant to be merged, is asked for differently: see [Asking for feedback](course/working-plan.md#asking-for-feedback).
+## Feedback on your own work
+
+Practice that is not meant to be merged gets feedback through a pull request too. A project step or a task such as numpy-mnist goes into the original repository instead, as [the projects](README.md#the-projects) explain.
+
+1. Keep your practice in a repository of your own, on GitHub or on another platform (GitLab, Codeberg…). Its commit history is the record of your work.
+2. Do the work on a branch, and open a pull request into your own repository (a merge request, on other platforms).
+3. Open an issue in this repository that links that pull request and says what you would like feedback on.
+
+Feedback comes as time allows, in order of arrival, as comments on your pull request.
 
 ## AI tools
 

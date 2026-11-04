@@ -1,8 +1,8 @@
 # Naive Bayes, from the theorem to a spam filter
 
-A deep dive of [Supervised learning](../../README.md): optional, and never assessed. Naive Bayes is a classifier learned from labelled examples, and it extends [Logistic regression](../../algorithms/linear-models/logistic_regression.ipynb): for two classes it also turns a weighted sum of the inputs (here, how many times each word appears) into a probability with the sigmoid, but it sets the weights by counting the words of each class instead of by minimising an error. *The spam filter with scikit-learn* compares the two on the same messages.
+For two classes, naive Bayes is a classifier of the same form as [logistic regression](../../algorithms/linear-models/logistic_regression.ipynb), but it sets its weights by counting the words of each class instead of by minimising an error.
 
-A spam filter built three times, each time with less code and more understanding: first Bayes' theorem on a single word, counted by hand; then a complete naive Bayes classifier in a few lines of Python, checked against scikit-learn's; finally the filter as a scikit-learn pipeline, compared with other models, tuned for what each mistake costs, and examined message by message.
+A spam filter built three times, each time with less code and more understanding: first Bayes' theorem on a single word, counted by hand; then a complete naive Bayes classifier in a few lines of Python, checked against scikit-learn's; finally the filter as a scikit-learn pipeline, compared with logistic regression, tuned for what each mistake costs, and examined message by message.
 
 The data is the SMS Spam Collection: 5,574 real text messages labelled spam or ham (legitimate), downloaded on first use from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/228/sms+spam+collection) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)); it isn't stored with the notebooks.
 
@@ -14,11 +14,7 @@ The data is the SMS Spam Collection: 5,574 real text messages labelled spam or h
 | 2 | [A naive Bayes classifier by hand](naive_bayes_by_hand.ipynb) | Why repeated messages are removed before splitting; the naive assumption, measured; word counts per class; smoothing for words a class has never seen; logarithms against underflow; the classifier as a class with scikit-learn's conventions, identical to `MultinomialNB` |
 | 3 | [The spam filter with scikit-learn](spam_filter_scikit_learn.ipynb) | Counts, presence, TF-IDF and word pairs, against a logistic regression, by cross-validation; a threshold for what each mistake costs; the messages it gets wrong; the words that weigh most, and what they reveal about how the data was collected; where naive Bayes stands today |
 
-## Before you start
-
-- **Python and pandas:** reading a table, selecting rows, `map` and `groupby`.
-- **Probability:** the notebooks explain what they use. For Bayes' theorem itself and its derivation: the deep dive [Bayes' theorem](../../../concepts/deep-dives/probability/bayes_theorem.md). Its other use in AI, Bayesian networks whose probabilities an expert writes by hand instead of counting them from data: [Reasoning under uncertainty](../../../concepts/deep-dives/classical-ai/uncertainty.ipynb), in the classical AI deep dive.
-- **The spam filter with scikit-learn** uses the workflow of [supervised learning](../../README.md): [pipelines](../../basic-workflows/california_with_pipelines.ipynb), [cross-validation](../../ml-fundamentals/cross_validation_and_search.ipynb), [precision and recall, and thresholds](../../evaluation/classification_metrics.ipynb).
+The notebooks explain the probability they use; the derivation of the theorem is in the deep dive [Probability and Bayes' theorem](../../../concepts/deep-dives/probability/README.md). Notebook 3 uses the pipelines, cross-validation and classification metrics of Supervised learning's path.
 
 ## Setup
 

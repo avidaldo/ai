@@ -41,9 +41,7 @@ The grade is rounded to the nearest whole number, halves up; a grade below 5 is 
 
 ## The projects
 
-Through the year you work on [projects](working-plan.md#the-projects): public repositories that you fork and build on step by step. Your pull requests are your submissions: they receive feedback, and they are never graded, except as [contributions](#contributions). The exams ask you to work on their code, so the best preparation is to have built them, or at least to have followed them closely.
-
-The practical part of each exam works on some of these repositories, and possibly on the worked examples. **Which ones, and the version (tag) of each to study, are announced at least two weeks before the exam.** Each version is the repository as it stood a week before the exam or earlier: only what had been published by then is examined, never the complementary material in a repository's `docs/`. The questions are about a change you haven't seen, so reciting the code won't help; understanding it will. Everything runs offline, without a language model.
+The practical part of each exam works on some of [the projects](../README.md#the-projects), and possibly on the worked examples. It asks you to work on their code, so the best preparation is to have built them, or at least to have followed them closely. **Which repositories, and the version (tag) of each to study, are announced at least two weeks before the exam.** Each version is the repository as it stood a week before the exam or earlier: only what had been published by then is examined, never the complementary material in a repository's `docs/`. The questions are about a change you haven't seen, so reciting the code won't help; understanding it will. Everything runs offline, without a language model.
 
 **You are expected to use AI tools.** What is assessed is your understanding: AI tools can write most of the code for you, but they can't understand it for you, and that is what the exam checks. Make sure you can explain, test and change the projects' code, and that you could direct an AI agent to change it well.
 
@@ -51,7 +49,7 @@ The practical part of each exam works on some of these repositories, and possibl
 
 Contributions are voluntary, and you can get a 10 without them. Useful issues (a problem well identified, even without a fix) and pull requests to any course repository, once accepted, can add up to 2 points to the grade of a module whose exam you have passed, never above 10. How they are valued is described in the programación. Register your GitHub username in the aula virtual so that they can be counted. How to take part: [Improving the course materials](../CONTRIBUTING.md).
 
-## Everything else
+## What each kind of material counts for
 
 - **Core items** (★ in each topic's README) are the minimum path. The project part of each exam needs only them and the repositories it uses, and about two thirds of the quiz is about them; the rest of the quiz is about the **standard** items: the rest of the path and the worked examples.
 - **Deep dives** are never assessed.

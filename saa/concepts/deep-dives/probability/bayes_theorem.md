@@ -34,7 +34,7 @@ A worked example with numbers: [a diagnostic test](diagnostic_test.md).
 The theorem is the basis of two ideas in AI, which differ in where the probabilities come from:
 
 - **Bayesian networks** reason with probabilities that an expert writes down, and update them with the theorem as evidence arrives: for example, the probability of a burglary when an alarm goes off. A complete example: [reasoning under uncertainty](../classical-ai/uncertainty.ipynb).
-- The **naive Bayes** classifier estimates those probabilities by counting in labelled data, so it is supervised learning. Its classic application is the spam filter: the probability that an email is spam given the words it contains. It is a deep dive of supervised learning *(coming)*.
+- The **naive Bayes** classifier estimates those probabilities by counting in labelled data, so it is supervised learning. Its classic application is the spam filter: the probability that an email is spam given the words it contains. It is [a deep dive of supervised learning](../../../supervised-learning/deep-dives/naive-bayes/README.md).
 
 ## Further Resources
 

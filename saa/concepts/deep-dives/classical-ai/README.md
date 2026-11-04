@@ -1,8 +1,6 @@
 # Classical AI: Intelligence Without Learning
 
-A deep dive of [What is artificial intelligence?](../../background/what_is_ai.md): optional, and never assessed.
-
-Machine learning is one way to make a program intelligent: show it examples with their answers, and let it find the rules. For its first decades, AI meant the opposite way: write the knowledge down, and make the program reason with it. That is **symbolic** or **classical AI**, sometimes called *good old-fashioned AI* (GOFAI), together with its probabilistic successor, reasoning under uncertainty. It isn't *classical machine learning*, a name often given to the learning methods that aren't neural networks, such as decision trees: those learn from data.
+Machine learning is one way to make a program [intelligent](../../background/what_is_ai.md): show it examples with their answers, and let it find the rules. For its first decades, AI meant the opposite way: write the knowledge down, and make the program reason with it. That is **symbolic** or **classical AI**, sometimes called *good old-fashioned AI* (GOFAI), together with its probabilistic successor, reasoning under uncertainty. It isn't *classical machine learning*, a name often given to the learning methods that aren't neural networks, such as decision trees: those learn from data.
 
 Nothing in these notebooks is trained on data, until the last one shows where learning comes in; case-based reasoning, in notebook 4, comes closest, by accumulating cases. Each builds a small example in plain Python, one idea per cell, with nothing to install beyond Python itself.
 
@@ -20,10 +18,6 @@ Nothing in these notebooks is trained on data, until the last one shows where le
 | 8 | [Reasoning under uncertainty](uncertainty.ipynb) | A Bayesian network by hand, inference by enumeration, explaining away; and the same tables learned from data |
 
 **Games** are search against an opponent: notebook 1 explains minimax, and [Python tic-tac-toe](https://github.com/avidaldo/python-tic-tac-toe/tree/master/02_minimax) implements it, with a player that never loses.
-
-## Bayes' theorem, here and elsewhere
-
-Bayesian reasoning appears in three places, each with its own role: the **theorem** itself, with its derivation and a diagnostic test, in the deep dive [Probability and Bayes' theorem](../probability/README.md); **Bayesian networks written by hand**, in notebook 8; and the **naive Bayes classifier**, whose probabilities are counted from labelled data, in a deep dive of supervised learning *(coming)*. It is not on one side of the line between classical AI and machine learning: what decides the side is where the probabilities come from, an expert or the data.
 
 ## Not covered here
 
