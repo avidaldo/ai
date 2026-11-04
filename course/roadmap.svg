@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="564" viewBox="0 0 820 564" role="img" aria-labelledby="title desc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="title">The year at a glance, 2026/27: the stages of SAA and PIA, the holidays and the exams</title>
+<desc id="desc">Time runs from left to right, from October 2026 to June 2027, and the stages are listed in the recommended order; the dates are estimates, the exams are fixed. 1 Getting started (PIA), 14–25 Oct. 2 What AI and machine learning are (SAA), 19–25 Oct. 3 Python for AI (PIA), 19 Oct – 1 Nov. 4 Working with data (PIA), 26 Oct – 6 Dec. 6 Supervised learning (SAA), 9 Nov – 31 Jan. 5 Building with language models (PIA), 7 Dec – 17 Jan. 7 Serving models (PIA), 18–31 Jan. 8 Neural networks (SAA), 1–28 Feb. 9 Agents and MCP (PIA), 1 Feb – 21 Mar. Exams: SAA Tue 2 Feb, PIA Thu 4 Feb. 10 How language models work (SAA), 15 Mar – 4 Apr. 11 Retrieval-augmented generation (RAG) (PIA), 30 Mar – 18 Apr. 12 Automation and business (PIA), 19 Apr – 2 May. 13 Unsupervised learning (SAA), 26 Apr – 16 May. 14 Vision and voice with pretrained models (PIA), 10–23 May. 15 Reinforcement learning (SAA), 10–23 May. Exams: SAA Mon 24 May, PIA Wed 26 May. Exams: SAA Thu 10 Jun, PIA Mon 14 Jun. Holidays: Christmas, 22 Dec – 7 Jan; Easter, 22–29 Mar.</desc>
+<rect x="0.5" y="0.5" width="819" height="563" rx="12" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="24" y="36" font-size="16" font-weight="600" fill="#0b0b0b">The year at a glance, 2026/27</text>
+<text x="24" y="56" font-size="12" fill="#52514e">Estimated dates: they move with how the group progresses. The exams are fixed.</text>
+<rect x="24" y="77" width="12" height="12" rx="3" fill="#2a78d6"/>
+<text x="42" y="88" font-size="13" font-weight="600" fill="#0b0b0b">SAA · Machine Learning Systems</text>
+<rect x="284" y="77" width="12" height="12" rx="3" fill="#eb6834"/>
+<text x="302" y="88" font-size="13" font-weight="600" fill="#0b0b0b">PIA · AI Programming</text>
+<line x1="45.4" y1="120" x2="45.4" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="66.9" y1="120" x2="66.9" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="88.3" y1="120" x2="88.3" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="109.8" y1="120" x2="109.8" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="131.2" y1="120" x2="131.2" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="152.7" y1="120" x2="152.7" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="174.1" y1="120" x2="174.1" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="195.6" y1="120" x2="195.6" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="217.0" y1="120" x2="217.0" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="238.4" y1="120" x2="238.4" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="259.9" y1="120" x2="259.9" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="281.3" y1="120" x2="281.3" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="302.8" y1="120" x2="302.8" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="324.2" y1="120" x2="324.2" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="345.7" y1="120" x2="345.7" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="367.1" y1="120" x2="367.1" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="388.6" y1="120" x2="388.6" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="410.0" y1="120" x2="410.0" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="431.4" y1="120" x2="431.4" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="452.9" y1="120" x2="452.9" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="474.3" y1="120" x2="474.3" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="495.8" y1="120" x2="495.8" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="517.2" y1="120" x2="517.2" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="538.7" y1="120" x2="538.7" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="560.1" y1="120" x2="560.1" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="581.6" y1="120" x2="581.6" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="603.0" y1="120" x2="603.0" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="624.4" y1="120" x2="624.4" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="645.9" y1="120" x2="645.9" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="667.3" y1="120" x2="667.3" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="688.8" y1="120" x2="688.8" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="710.2" y1="120" x2="710.2" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="731.7" y1="120" x2="731.7" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="753.1" y1="120" x2="753.1" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="774.6" y1="120" x2="774.6" y2="520" stroke="#ecebe6" stroke-width="1"/>
+<line x1="24.0" y1="102" x2="24.0" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="27.0" y="112" font-size="11" fill="#52514e">Oct</text>
+<line x1="85.3" y1="102" x2="85.3" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="88.3" y="112" font-size="11" fill="#52514e">Nov</text>
+<line x1="177.2" y1="102" x2="177.2" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="180.2" y="112" font-size="11" fill="#52514e">Dec</text>
+<line x1="272.1" y1="102" x2="272.1" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="275.1" y="112" font-size="11" fill="#52514e">Jan</text>
+<line x1="367.1" y1="102" x2="367.1" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="370.1" y="112" font-size="11" fill="#52514e">Feb</text>
+<line x1="452.9" y1="102" x2="452.9" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="455.9" y="112" font-size="11" fill="#52514e">Mar</text>
+<line x1="547.9" y1="102" x2="547.9" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="550.9" y="112" font-size="11" fill="#52514e">Apr</text>
+<line x1="639.8" y1="102" x2="639.8" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="642.8" y="112" font-size="11" fill="#52514e">May</text>
+<line x1="734.7" y1="102" x2="734.7" y2="120" stroke="#52514e" stroke-width="1"/>
+<text x="737.7" y="112" font-size="11" fill="#52514e">Jun</text>
+<rect x="241.5" y="120" width="52.1" height="400" fill="#e1e0d9" fill-opacity="0.7"/>
+<text x="267.5" y="536" font-size="11" text-anchor="middle" fill="#52514e">Christmas</text>
+<rect x="517.2" y="120" width="24.5" height="400" fill="#e1e0d9" fill-opacity="0.7"/>
+<text x="529.5" y="536" font-size="11" text-anchor="middle" fill="#52514e">Easter</text>
+<line x1="371.7" y1="120" x2="371.7" y2="520" stroke="#0b0b0b" stroke-width="1" stroke-opacity="0.45"/>
+<line x1="377.8" y1="120" x2="377.8" y2="520" stroke="#0b0b0b" stroke-width="1" stroke-opacity="0.45"/>
+<line x1="711.8" y1="120" x2="711.8" y2="520" stroke="#0b0b0b" stroke-width="1" stroke-opacity="0.45"/>
+<line x1="717.9" y1="120" x2="717.9" y2="520" stroke="#0b0b0b" stroke-width="1" stroke-opacity="0.45"/>
+<line x1="763.8" y1="120" x2="763.8" y2="520" stroke="#0b0b0b" stroke-width="1" stroke-opacity="0.45"/>
+<line x1="776.1" y1="120" x2="776.1" y2="520" stroke="#0b0b0b" stroke-width="1" stroke-opacity="0.45"/>
+<rect x="30.1" y="129.0" width="36.8" height="12" rx="4" fill="#eb6834"><title>1 · Getting started (PIA): 14–25 Oct, estimated</title></rect>
+<rect x="45.4" y="151.0" width="21.4" height="12" rx="4" fill="#2a78d6"><title>2 · What AI and machine learning are (SAA): 19–25 Oct, estimated</title></rect>
+<rect x="45.4" y="173.0" width="42.9" height="12" rx="4" fill="#eb6834"><title>3 · Python for AI (PIA): 19 Oct – 1 Nov, estimated</title></rect>
+<rect x="66.9" y="195.0" width="128.7" height="12" rx="4" fill="#eb6834"><title>4 · Working with data (PIA): 26 Oct – 6 Dec, estimated</title></rect>
+<rect x="109.8" y="217.0" width="257.3" height="12" rx="4" fill="#2a78d6"><title>6 · Supervised learning (SAA): 9 Nov – 31 Jan, estimated</title></rect>
+<rect x="195.6" y="239.0" width="128.7" height="12" rx="4" fill="#eb6834"><title>5 · Building with language models (PIA): 7 Dec – 17 Jan, estimated</title></rect>
+<rect x="324.2" y="261.0" width="42.9" height="12" rx="4" fill="#eb6834"><title>7 · Serving models (PIA): 18–31 Jan, estimated</title></rect>
+<rect x="367.1" y="283.0" width="85.8" height="12" rx="4" fill="#2a78d6"><title>8 · Neural networks (SAA): 1–28 Feb, estimated</title></rect>
+<rect x="367.1" y="305.0" width="150.1" height="12" rx="4" fill="#eb6834"><title>9 · Agents and MCP (PIA): 1 Feb – 21 Mar, estimated</title></rect>
+<rect x="370.2" y="327.0" width="3" height="12" rx="1" fill="#0b0b0b"/>
+<rect x="376.3" y="327.0" width="3" height="12" rx="1" fill="#0b0b0b"/>
+<rect x="495.8" y="349.0" width="64.3" height="12" rx="4" fill="#2a78d6"><title>10 · How language models work (SAA): 15 Mar – 4 Apr, estimated</title></rect>
+<rect x="541.7" y="371.0" width="61.3" height="12" rx="4" fill="#eb6834"><title>11 · Retrieval-augmented generation (RAG) (PIA): 30 Mar – 18 Apr, estimated</title></rect>
+<rect x="603.0" y="393.0" width="42.9" height="12" rx="4" fill="#eb6834"><title>12 · Automation and business (PIA): 19 Apr – 2 May, estimated</title></rect>
+<rect x="624.4" y="415.0" width="64.3" height="12" rx="4" fill="#2a78d6"><title>13 · Unsupervised learning (SAA): 26 Apr – 16 May, estimated</title></rect>
+<rect x="667.3" y="437.0" width="42.9" height="12" rx="4" fill="#eb6834"><title>14 · Vision and voice with pretrained models (PIA): 10–23 May, estimated</title></rect>
+<rect x="667.3" y="459.0" width="42.9" height="12" rx="4" fill="#2a78d6"><title>15 · Reinforcement learning (SAA): 10–23 May, estimated</title></rect>
+<rect x="710.3" y="481.0" width="3" height="12" rx="1" fill="#0b0b0b"/>
+<rect x="716.4" y="481.0" width="3" height="12" rx="1" fill="#0b0b0b"/>
+<rect x="762.3" y="503.0" width="3" height="12" rx="1" fill="#0b0b0b"/>
+<rect x="774.6" y="503.0" width="3" height="12" rx="1" fill="#0b0b0b"/>
+<text x="72.9" y="139.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">1</tspan> Getting started</text>
+<text x="72.9" y="161.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">2</tspan> What AI and machine learning are</text>
+<text x="94.3" y="183.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">3</tspan> Python for AI</text>
+<text x="201.6" y="205.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">4</tspan> Working with data</text>
+<text x="373.1" y="227.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">6</tspan> Supervised learning</text>
+<text x="330.2" y="249.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">5</tspan> Building with language models</text>
+<text x="373.1" y="271.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">7</tspan> Serving models</text>
+<text x="458.9" y="293.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">8</tspan> Neural networks</text>
+<text x="523.2" y="315.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">9</tspan> Agents and MCP</text>
+<text x="385.3" y="337.0" font-size="11" font-weight="600" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke">Exams · SAA Tue 2 Feb, PIA Thu 4 Feb</text>
+<text x="566.1" y="359.0" font-size="12" text-anchor="start" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">10</tspan> How language models work</text>
+<text x="535.7" y="381.0" font-size="12" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">11</tspan> Retrieval-augmented generation (RAG)</text>
+<text x="597.0" y="403.0" font-size="12" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">12</tspan> Automation and business</text>
+<text x="618.4" y="425.0" font-size="12" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">13</tspan> Unsupervised learning</text>
+<text x="661.3" y="447.0" font-size="12" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">14</tspan> Vision and voice with pretrained models</text>
+<text x="661.3" y="469.0" font-size="12" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke"><tspan font-weight="600">15</tspan> Reinforcement learning</text>
+<text x="704.3" y="491.0" font-size="11" font-weight="600" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke">Exams · SAA Mon 24 May, PIA Wed 26 May</text>
+<text x="756.3" y="513.0" font-size="11" font-weight="600" text-anchor="end" fill="#0b0b0b" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" paint-order="stroke">Exams · SAA Thu 10 Jun, PIA Mon 14 Jun</text>
+</svg>
