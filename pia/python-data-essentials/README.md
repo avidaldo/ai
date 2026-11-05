@@ -28,6 +28,8 @@ Optional and never assessed. The path never depends on these.
 | Notebook | Extends | Content |
 | --- | --- | --- |
 | [Lists vs NumPy arrays: exercises](numpy/deep-dives/lists_nd_arrays_examples.ipynb) | 1 | Small functions solved with plain lists and with NumPy |
+| [Fancy indexing, step by step](numpy/deep-dives/fancy_indexing_step_by_step.ipynb) | 1 | Indexing with arrays of indices, and broadcasting, on arrays small enough to print, up to three index arrays that cut a different window from each image |
+| [Shifting every image without a loop](https://github.com/avidaldo/numpy-mnist/blob/main/vectorised_shift.ipynb), in numpy-mnist | Exercises | Exercise 22's shift vectorised, checked against the loop and timed part by part |
 | [A DataFrame from different structures](pandas/deep-dives/df_from_structures.ipynb) | 3 | Building one DataFrame from lists, dictionaries and arrays |
 | [Data preparation's deep dives](../../saa/data-preparation/README.md#deep-dives) | 6 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
 
