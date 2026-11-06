@@ -5,6 +5,8 @@ Materials for two modules of the specialisation course in Artificial Intelligenc
 - **SAA · Machine Learning Systems**: how models learn from data, how they are trained, and how to tell whether they really work.
 - **PIA · AI Programming**: building software with AI: Python and its tooling, language models, retrieval, agents, deployment and automation.
 
+A [Spanish translation](https://github.com/NainIglesias/ai/tree/traduccion-es) is maintained by [NainIglesias](https://github.com/NainIglesias).
+
 ## Roadmap
 
 The year in fifteen stages. The chart and the table's last column estimate when the group works on each one: follow those dates rather than the stage numbers, since stages of the two modules overlap. **The dates are estimates, not deadlines.** Only the exams are fixed: the other dates move with how the group progresses, each week's work is presented in the weekly session, and every change is made on this page. Materials are usually published well before they are needed, and you can always go ahead. If an exercise takes you longer, as numpy-mnist may if you are new to programming, finish it with your AI coding assistant, make sure you understand every line it writes, and move on with the group: the next stage doesn't wait.
