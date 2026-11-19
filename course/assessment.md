@@ -49,9 +49,8 @@ The practical part of each exam works on some of [the projects](../README.md#the
 
 Contributions are voluntary, and you can get a 10 without them. Useful issues (a problem well identified, even without a fix) and pull requests to any course repository, once accepted, can add up to 2 points to the grade of a module whose exam you have passed, never above 10. How they are valued is described in the programación. Register your GitHub username in the aula virtual so that they can be counted. How to take part: [Improving the course materials](../CONTRIBUTING.md).
 
-## What each kind of material counts for
+## What can come up in the exams
 
-- **Core items** (★ in each topic's README) are the minimum path. The project part of each exam needs only them and the repositories it uses, and about two thirds of the quiz is about them; the rest of the quiz is about the **standard** items: the rest of the path and the worked examples.
-- **Deep dives** are never assessed.
-- **Worked examples** (the repositories that apply each stage to real data) are studied, and the quiz can ask about them. Some topics, such as classification, are practised only there.
-- **Practice tasks** (suggested by the topics and the worked examples) are never graded. They are the best preparation for the exam, and you can ask for feedback on any of them.
+- **The path of each topic**: its core (★) and standard items alike, the worked examples among them, in the quiz and in the practical part.
+- **Complementary** items, support and deep dives, never.
+- **Practice tasks** are never graded. They are the best preparation for the exams, and you can ask for feedback on any of them.

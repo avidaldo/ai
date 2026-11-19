@@ -1,6 +1,6 @@
 # Classical AI: Intelligence Without Learning
 
-*Complementary: deep dive.* Optional and never assessed.
+*Complementary: deep dive.*
 
 Machine learning is one way to make a program [intelligent](../../background/what_is_ai.md): show it examples with their answers, and let it find the rules. For its first decades, AI meant the opposite way: write the knowledge down, and make the program reason with it. That is **symbolic** or **classical AI**, sometimes called *good old-fashioned AI* (GOFAI), together with its probabilistic successor, reasoning under uncertainty. It isn't *classical machine learning*, a name often given to the learning methods that aren't neural networks, such as decision trees: those learn from data.
 

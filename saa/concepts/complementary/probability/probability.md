@@ -1,6 +1,6 @@
 # Probability
 
-*Complementary: support.* Optional and never assessed.
+*Complementary: support.*
 
 **Probability** measures how certain an event is, as a number between 0 (impossible) and 1 (certain), often written as a percentage. If the probability of an event A is P(A), the probability that it doesn't happen is P(¬A) = 1 − P(A).
 

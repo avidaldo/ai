@@ -1,6 +1,6 @@
 # Bayes' Theorem Applied to a Diagnostic Test
 
-*Complementary: support.* Optional and never assessed.
+*Complementary: support.*
 
 In a population group, 0.02% of people have a certain cancer. A screening test for it is not always right: in people who have the cancer it gives a positive result 85% of the time, and in people who don't, a negative result 95% of the time. Someone tests positive. How probable is it that they have the cancer?
 

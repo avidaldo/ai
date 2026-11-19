@@ -4,31 +4,20 @@ The two libraries that almost every AI project in Python stands on: NumPy for nu
 
 ## Path
 
-★ marks the core items: the minimum, if your week is short.
-
-| # | Notebook | Content |
-| --- | --- | --- |
-| ★ 1 | [NumPy](numpy/numpy1.ipynb) | Arrays and their data types, creating arrays, indexing and slicing, reshaping, random numbers |
-| 2 | [NumPy for algebraic operations](numpy/numpy2_algebra.ipynb) | Identity and transpose matrices, matrix operations, `@` and `np.dot` |
-| ★ 3 | [pandas: Series and DataFrame](pandas/pandas_structures.ipynb) | The two pandas structures and how they relate to NumPy arrays |
-| ★ 4 | [DataFrame operations](pandas/pandas_dataframe_op.ipynb) | Managing columns and rows, selecting and slicing, filtering, sorting, basic aggregations |
-| ★ 5 | [DataFrame transformations and reshaping](pandas/pandas_transformations.ipynb) | `map`, `apply` and `transform`, grouping, `assign`, reshaping with `melt` and `pivot` |
-
-## Exercises
-
-[numpy-mnist](https://github.com/avidaldo/numpy-mnist), the repository you forked in stage 1: two dozen exercises on handwritten digits as a 60,000×28×28 array, with tests that check your answers. If a 7×7 image as a matrix is new to you, start with [Matrices and tensors in AI](https://github.com/avidaldo/compare-python-c-efficiency/blob/main/02_matrices_in_ai.ipynb) (complementary: support).
-
-## Complementary
-
-Optional and never assessed: **support** reinforces the basics, and a **deep dive** goes further. The path never depends on these.
-
-| Item | Kind | Extends | Content |
+| # | Tier | Item | Content |
 | --- | --- | --- | --- |
-| [Lists vs NumPy arrays: exercises](numpy/complementary/lists_nd_arrays_examples.ipynb) | support | 1 | Small functions solved with plain lists and with NumPy |
-| [Fancy indexing, step by step](numpy/complementary/fancy_indexing_step_by_step.ipynb) | support | 1 | Indexing with arrays of indices, and broadcasting, on arrays small enough to print, up to three index arrays that cut a different window from each image |
-| [A DataFrame from different structures](pandas/complementary/df_from_structures.ipynb) | support | 3 | Building one DataFrame from lists, dictionaries and arrays |
-| [Shifting every image without a loop](https://github.com/avidaldo/numpy-mnist/blob/main/vectorised_shift.ipynb), in numpy-mnist | deep dive | Exercises | Exercise 22's shift vectorised, checked against the loop and timed part by part |
-| [Data preparation's complementary notebooks](../../saa/data-preparation/README.md#complementary) | deep dive | 3–5 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
+| 1 | ★ core | [NumPy](numpy/numpy1.ipynb) | Arrays and their data types, creating arrays, indexing and slicing, reshaping, random numbers |
+| | support | [Lists vs NumPy arrays: exercises](numpy/complementary/lists_nd_arrays_examples.ipynb) | Small functions solved with plain lists and with NumPy |
+| 2 | standard | [NumPy for algebraic operations](numpy/numpy2_algebra.ipynb) | Identity and transpose matrices, matrix operations, `@` and `np.dot` |
+| | support | [Matrices and tensors in AI](https://github.com/avidaldo/compare-python-c-efficiency/blob/main/02_matrices_in_ai.ipynb) | From single numbers to tensors; the dot product and matrix multiplication, and why AI is mostly that. Before the exercises, if a 7×7 image as a matrix is new to you |
+| | project | [numpy-mnist](https://github.com/avidaldo/numpy-mnist), the repository you forked in stage 1 | Two dozen exercises on handwritten digits as a 60,000×28×28 array, with tests that check your answers |
+| | support | [Fancy indexing, step by step](numpy/complementary/fancy_indexing_step_by_step.ipynb) | Indexing with arrays of indices, and broadcasting, on arrays small enough to print, up to three index arrays that cut a different window from each image |
+| | deep dive | [Shifting every image without a loop](https://github.com/avidaldo/numpy-mnist/blob/main/vectorised_shift.ipynb), in numpy-mnist | Exercise 22's shift vectorised, checked against the loop and timed part by part |
+| 3 | ★ core | [pandas: Series and DataFrame](pandas/pandas_structures.ipynb) | The two pandas structures and how they relate to NumPy arrays |
+| | support | [A DataFrame from different structures](pandas/complementary/df_from_structures.ipynb) | Building one DataFrame from lists, dictionaries and arrays |
+| 4 | ★ core | [DataFrame operations](pandas/pandas_dataframe_op.ipynb) | Managing columns and rows, selecting and slicing, filtering, sorting, basic aggregations |
+| 5 | ★ core | [DataFrame transformations and reshaping](pandas/pandas_transformations.ipynb) | `map`, `apply` and `transform`, grouping, `assign`, reshaping with `melt` and `pivot` |
+| | deep dive | The deep dives of [Data preparation](../../saa/data-preparation/README.md#path) | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions…, each in that path after the step it extends. The path of Data preparation itself comes later, with supervised learning |
 
 ## References
 

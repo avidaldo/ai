@@ -1,6 +1,6 @@
 # Naive Bayes, from the theorem to a spam filter
 
-*Complementary: deep dive.* Optional and never assessed.
+*Complementary: deep dive.*
 
 For two classes, naive Bayes is a classifier of the same form as [logistic regression](../../algorithms/linear-models/logistic_regression.ipynb), but it sets its weights by counting the words of each class instead of by minimising an error.
 

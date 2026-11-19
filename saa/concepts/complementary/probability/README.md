@@ -1,6 +1,6 @@
 # Probability and Bayes' Theorem
 
-*Complementary: support.* Optional and never assessed.
+*Complementary: support.*
 
 The probability that [machine learning](../../background/machine_learning_paradigms.md) and reasoning under uncertainty stand on: what a probability means, conditional probability, and Bayes' theorem, worked through a cancer screening test.
 

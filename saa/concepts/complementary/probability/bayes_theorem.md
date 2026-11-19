@@ -1,6 +1,6 @@
 # Bayes' Theorem
 
-*Complementary: support.* Optional and never assessed.
+*Complementary: support.*
 
 Bayes' theorem says how to update the probability of a hypothesis when new evidence arrives.
 
