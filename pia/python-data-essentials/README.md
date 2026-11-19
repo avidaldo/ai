@@ -1,6 +1,6 @@
 # Python Data Essentials: NumPy and pandas
 
-The two libraries that almost every AI project in Python stands on: NumPy for numerical arrays and pandas for tables. This folder covers what you need to load, inspect, select, reshape and combine the data of your projects, to find the problems a table has, and to get data from the web.
+The two libraries that almost every AI project in Python stands on: NumPy for numerical arrays and pandas for tables. This folder covers what you need to load, inspect, select, reshape and combine the data of your projects.
 
 ## Path
 
@@ -13,9 +13,6 @@ The two libraries that almost every AI project in Python stands on: NumPy for nu
 | ★ 3 | [pandas: Series and DataFrame](pandas/pandas_structures.ipynb) | The two pandas structures and how they relate to NumPy arrays |
 | ★ 4 | [DataFrame operations](pandas/pandas_dataframe_op.ipynb) | Managing columns and rows, selecting and slicing, filtering, sorting, basic aggregations |
 | ★ 5 | [DataFrame transformations and reshaping](pandas/pandas_transformations.ipynb) | `map`, `apply` and `transform`, grouping, `assign`, reshaping with `melt` and `pivot` |
-| ★ 6 | Finding the problems in a table *(coming)* | Missing values of two kinds (empty and placeholder), duplicates, impossible values, wrong types, the same thing written two ways; inspecting before deciding, and writing the decision down |
-| ★ 7 | Text and dates *(coming)* | The `.str` methods, regular expressions for the common cases, accents and broken encodings, timestamps written in two formats, time zones |
-| ★ 8 | Data from the web: APIs, JSON and XML *(coming)* | Calling a web API with parameters and pages, saving the raw answers, being polite to the server; JSON and JSON Lines into a DataFrame; reading XML with the standard library |
 
 ## Exercises
 
@@ -31,7 +28,7 @@ Optional and never assessed: **support** reinforces the basics, and a **deep div
 | [Fancy indexing, step by step](numpy/complementary/fancy_indexing_step_by_step.ipynb) | support | 1 | Indexing with arrays of indices, and broadcasting, on arrays small enough to print, up to three index arrays that cut a different window from each image |
 | [A DataFrame from different structures](pandas/complementary/df_from_structures.ipynb) | support | 3 | Building one DataFrame from lists, dictionaries and arrays |
 | [Shifting every image without a loop](https://github.com/avidaldo/numpy-mnist/blob/main/vectorised_shift.ipynb), in numpy-mnist | deep dive | Exercises | Exercise 22's shift vectorised, checked against the loop and timed part by part |
-| [Data preparation's complementary notebooks](../../saa/data-preparation/README.md#complementary) | deep dive | 6 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
+| [Data preparation's complementary notebooks](../../saa/data-preparation/README.md#complementary) | deep dive | 3–5 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
 
 ## References
 
