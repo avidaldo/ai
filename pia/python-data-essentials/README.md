@@ -19,19 +19,19 @@ The two libraries that almost every AI project in Python stands on: NumPy for nu
 
 ## Exercises
 
-[numpy-mnist](https://github.com/avidaldo/numpy-mnist), the repository you forked in stage 1: two dozen exercises on handwritten digits as a 60,000×28×28 array, with tests that check your answers. If a 7×7 image as a matrix is new to you, start with [Matrices and tensors in AI](https://github.com/avidaldo/compare-python-c-efficiency/blob/main/02_matrices_in_ai.ipynb).
+[numpy-mnist](https://github.com/avidaldo/numpy-mnist), the repository you forked in stage 1: two dozen exercises on handwritten digits as a 60,000×28×28 array, with tests that check your answers. If a 7×7 image as a matrix is new to you, start with [Matrices and tensors in AI](https://github.com/avidaldo/compare-python-c-efficiency/blob/main/02_matrices_in_ai.ipynb) (complementary: support).
 
-## Deep dives
+## Complementary
 
-Optional and never assessed. The path never depends on these.
+Optional and never assessed: **support** reinforces the basics, and a **deep dive** goes further. The path never depends on these.
 
-| Notebook | Extends | Content |
-| --- | --- | --- |
-| [Lists vs NumPy arrays: exercises](numpy/deep-dives/lists_nd_arrays_examples.ipynb) | 1 | Small functions solved with plain lists and with NumPy |
-| [Fancy indexing, step by step](numpy/deep-dives/fancy_indexing_step_by_step.ipynb) | 1 | Indexing with arrays of indices, and broadcasting, on arrays small enough to print, up to three index arrays that cut a different window from each image |
-| [Shifting every image without a loop](https://github.com/avidaldo/numpy-mnist/blob/main/vectorised_shift.ipynb), in numpy-mnist | Exercises | Exercise 22's shift vectorised, checked against the loop and timed part by part |
-| [A DataFrame from different structures](pandas/deep-dives/df_from_structures.ipynb) | 3 | Building one DataFrame from lists, dictionaries and arrays |
-| [Data preparation's deep dives](../../saa/data-preparation/README.md#deep-dives) | 6 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
+| Item | Kind | Extends | Content |
+| --- | --- | --- | --- |
+| [Lists vs NumPy arrays: exercises](numpy/complementary/lists_nd_arrays_examples.ipynb) | support | 1 | Small functions solved with plain lists and with NumPy |
+| [Fancy indexing, step by step](numpy/complementary/fancy_indexing_step_by_step.ipynb) | support | 1 | Indexing with arrays of indices, and broadcasting, on arrays small enough to print, up to three index arrays that cut a different window from each image |
+| [A DataFrame from different structures](pandas/complementary/df_from_structures.ipynb) | support | 3 | Building one DataFrame from lists, dictionaries and arrays |
+| [Shifting every image without a loop](https://github.com/avidaldo/numpy-mnist/blob/main/vectorised_shift.ipynb), in numpy-mnist | deep dive | Exercises | Exercise 22's shift vectorised, checked against the loop and timed part by part |
+| [Data preparation's complementary notebooks](../../saa/data-preparation/README.md#complementary) | deep dive | 6 | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions… The path of Data preparation comes later, with supervised learning |
 
 ## References
 

@@ -14,7 +14,7 @@ Learning from rewards instead of labels: an agent acts in an environment, receiv
 
 ## Worked example
 
-[Tic-tac-toe with Q-learning](https://github.com/avidaldo/tictactoe-qlearning) is a repository of its own: it improves an agent step by step, from the simplest version to one that never loses against a perfect player. Its README suggests further experiments, and its notebooks have exercises: board symmetries, a curriculum, a tournament.
+[Tic-tac-toe with Q-learning](https://github.com/avidaldo/tictactoe-qlearning) is a repository of its own, complementary (a deep dive: optional and never assessed): it improves an agent step by step, from the simplest version to one that never loses against a perfect player. Its README suggests further experiments, and its notebooks have exercises: board symmetries, a curriculum, a tournament.
 
 ## Practice
 

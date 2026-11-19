@@ -15,11 +15,11 @@ The map of the whole SAA year, in notes to read: what AI and machine learning ar
 | 5 | [Neural networks from the outside](background/neural_networks.md) | Milestones, what a network is and how it learns, deep learning and when it is worth it, and the families of networks | Stage 8 |
 | 6 | [Language models from the outside](background/language_models.md) | What a language model does and how it is made, and what follows for anyone who uses one: tokens, sampling, hallucinations, the knowledge cutoff, the context window, tools and answers grounded in documents | Stage 10; stage 6 (PIA) builds on it |
 
-## Deep dives
+## Complementary
 
-Optional and never assessed. The path never depends on these.
+Optional and never assessed: **support** reinforces the basics, and a **deep dive** goes further. The path never depends on these.
 
-| Deep dive | Extends | Content |
-| --- | --- | --- |
-| [Classical AI: intelligence without learning](deep-dives/classical-ai/README.md) | 1 | The AI that doesn't learn from data, in eight notebooks: search and games, local search, constraints, rules and expert systems, knowledge representation, logic, planning, and reasoning under uncertainty |
-| [Probability and Bayes' theorem](deep-dives/probability/README.md) | 2 | The probability that machine learning stands on: conditional probability, Bayes' theorem, and a diagnostic test worked step by step |
+| Item | Kind | Extends | Content |
+| --- | --- | --- | --- |
+| [Probability and Bayes' theorem](complementary/probability/README.md) | support | 2 | The probability that machine learning stands on: conditional probability, Bayes' theorem, and a diagnostic test worked step by step |
+| [Classical AI: intelligence without learning](complementary/classical-ai/README.md) | deep dive | 1 | The AI that doesn't learn from data, in eight notebooks: search and games, local search, constraints, rules and expert systems, knowledge representation, logic, planning, and reasoning under uncertainty |

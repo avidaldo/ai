@@ -13,7 +13,7 @@ frame the problem → get and explore the data → prepare the data → train an
 - **What exactly is predicted,** for whom, and which decision the prediction changes.
 - **How success is measured:** a measure that matters to the people who use the model, such as fewer unpaid loans, and a model metric that follows it, chosen before any model is trained.
 - **A baseline:** the simplest possible answer, such as the mean price of all the houses, or the most frequent class. A model is only worth its cost if it clearly beats it.
-- **Whether machine learning is needed at all:** if a few clear rules solve the problem, write the rules ([rules and expert systems](../deep-dives/classical-ai/rules_and_expert_systems.ipynb)).
+- **Whether machine learning is needed at all:** if a few clear rules solve the problem, write the rules ([rules and expert systems](../complementary/classical-ai/rules_and_expert_systems.ipynb)).
 
 ### Get and Explore the Data
 
