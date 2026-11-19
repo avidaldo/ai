@@ -17,6 +17,7 @@ The two libraries that almost every AI project in Python stands on: NumPy for nu
 | | support | [A DataFrame from different structures](pandas/complementary/df_from_structures.ipynb) | Building one DataFrame from lists, dictionaries and arrays |
 | 4 | ★ core | [DataFrame operations](pandas/pandas_dataframe_op.ipynb) | Managing columns and rows, selecting and slicing, filtering, sorting, basic aggregations |
 | 5 | ★ core | [DataFrame transformations and reshaping](pandas/pandas_transformations.ipynb) | `map`, `apply` and `transform`, grouping, `assign`, reshaping with `melt` and `pivot` |
+| | project | [Regulations assistant](https://github.com/avidaldo/fp-regulations-assistant), the project of PIA | Fork it and read its README. From the end of this stage, the group improves it step by step through the year, each step announced in the forum |
 | | deep dive | The deep dives of [Data preparation](../../saa/data-preparation/README.md#path) | One step of preparing data for a model per notebook: exploring a dataset, correlation, outliers, skewed distributions…, each in that path after the step it extends. The path of Data preparation itself comes later, with supervised learning |
 
 ## References

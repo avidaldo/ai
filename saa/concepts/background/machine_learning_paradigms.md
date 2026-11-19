@@ -28,6 +28,8 @@ The two most common paradigms, crossed with the kind of output their main tasks 
 
 In supervised learning the output is a prediction of a known target. Unsupervised learning has no target: its output is a structure that the method finds in the data.
 
+Supervised learning is the paradigm most used in practice: most models built from data predict a known answer, such as a price, a diagnosis or whether a payment is a fraud.
+
 Each task below comes with a box that describes a typical application: its data, the answers that come with the data, what is learned, and what it is used for.
 
 ## Supervised Learning
@@ -192,7 +194,7 @@ This paradigm is found in robotics (e.g., teaching a robot to walk) and games (e
 ## Between Supervised and Unsupervised
 
 - **Semi-supervised learning** uses a few labelled examples together with many unlabelled ones, when labels are expensive: a doctor can label a hundred scans, not a million.
-- **Self-supervised learning** creates the labels from the data itself. A language model is pretrained by hiding the next word of real text and learning to predict it: every sentence on the internet becomes a labelled example, with no person labelling anything. This is how today's large language models learn most of what they know: see [language models from the outside](language_models.md).
+- **Self-supervised learning** creates the labels from the data itself. A language model is pretrained by hiding the next word of real text and learning to predict it: any sentence becomes a labelled example, with no person labelling anything. It trains with the machinery of supervised learning, each input with a target and the model corrected by its error on it, but it is also counted as a kind of unsupervised learning, because its data comes without labels. This is how today's large language models learn most of what they know: see [language models from the outside](language_models.md).
 
 > [!NOTE]
 > **Labelling photos with a model** (semi-supervised)

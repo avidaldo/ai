@@ -76,14 +76,14 @@ Public repositories that you fork and build on through the year, step by step. M
 | Project | Module | What you build | Starts |
 | --- | --- | --- | --- |
 | [numpy-mnist](https://github.com/avidaldo/numpy-mnist) | PIA | Images as NumPy arrays, with Git, tests and continuous integration. Keep your solutions: they come back later in the year | Fork it in stage 1, and solve its exercises in stage 4 |
-| [Regulations assistant](https://github.com/avidaldo/fp-regulations-assistant) | PIA | An assistant that helps a teacher answer students' questions about vocational-training regulations, citing the articles in force | Stage 4 |
-| [Property valuation](https://github.com/avidaldo/idealista18-avm) | SAA | An estimate of the price of a home from real listings, and of how far each estimate can be trusted | Stage 5 |
+| [Regulations assistant](https://github.com/avidaldo/fp-regulations-assistant) | PIA | An assistant that helps a teacher answer students' questions about vocational-training regulations, citing the articles in force | Stage 4, at the end of [Python data essentials](pia/python-data-essentials/README.md#path) |
+| [Property valuation](https://github.com/avidaldo/idealista18-avm) | SAA | An estimate of the price of a home from real listings, and of how far each estimate can be trusted | Stage 5, after notebook 4 of [Supervised learning](saa/supervised-learning/README.md#part-1--regression-end-to-end) |
 
 The two larger projects are built by the whole group, one step at a time:
 
-- **Each step is an issue** in the project's repository, with the check that shows it is done. Ask your questions there.
-- **Work in your fork**, and open a pull request that links the step's issue ([how](pia/setup/git_github.md#contributing-with-a-pull-request)). It is your submission: it receives feedback and is never graded, though once accepted it counts as a contribution.
-- **The teacher's solution comes with the next issue**, with the good pull requests merged into it or instead of it. Bring it into your fork before you start the next step ([how](pia/setup/git_github.md#keeping-your-fork-up-to-date)).
+- **Each step is called for in the weekly forum post**, with what to do and the check that shows it is done. Ask your questions in the forum or in the weekly session.
+- **Work in your fork**, and open a pull request with your solution, saying in its description which step it answers ([how](pia/setup/git_github.md#contributing-with-a-pull-request)). It is your submission: it receives feedback and is never graded, though once accepted it counts as a contribution.
+- **The teacher's solution comes with the next step**, with the good pull requests merged into it or instead of it. Bring it into your fork before you start the next step ([how](pia/setup/git_github.md#keeping-your-fork-up-to-date)).
 
 The practical part of each exam works on these repositories.
 
